@@ -2,7 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://square30s.tk/hello-world.html</loc>
+    <loc>http://square30s.tk/about/index.html</loc>
+    
+    <lastmod>2017-06-26T08:41:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://square30s.tk/404.html</loc>
+    
+    <lastmod>2017-06-26T04:57:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://square30s.tk/categories/index.html</loc>
+    
+    <lastmod>2017-06-26T04:42:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://square30s.tk/tags/index.html</loc>
+    
+    <lastmod>2017-06-26T04:39:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://square30s.tk/googlef78e271bebc7caba.html</loc>
+    
+    <lastmod>2017-06-26T03:23:45.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://square30s.tk/2017/06/23/hello-world/</loc>
     
     <lastmod>2017-06-23T13:02:07.000Z</lastmod>
     

@@ -1,7 +1,0 @@
-# hexo robots.txt
-User-agent: *
-Allow: /
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
-Sitemap: http://square30s.tk/sitemap.xml
