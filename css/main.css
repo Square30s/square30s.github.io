@@ -1111,6 +1111,14 @@ pre .javascript .function {
   font-weight: bold;
   line-height: 1;
 }
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
 .post-sticky-flag {
   display: inline-block;
   font-size: 16px;
@@ -1559,17 +1567,7 @@ pre .javascript .function {
   width: 180px;
   max-width: 100%;
   display: inline-block;
-  margin: 0.8em 2em 0 2em;
-}
-#wechat:hover p {
-  animation: roll 0.1s infinite linear;
-  -webkit-animation: roll 0.1s infinite linear;
-  -moz-animation: roll 0.1s infinite linear;
-}
-#alipay:hover p {
-  animation: roll 0.1s infinite linear;
-  -webkit-animation: roll 0.1s infinite linear;
-  -moz-animation: roll 0.1s infinite linear;
+  margin: 0.8em 2em 0.2em;
 }
 @-moz-keyframes roll {
   from {
@@ -1831,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #60ff0b;
+  background: #ffa8ff;
 }
 .links-of-blogroll {
   font-size: 13px;
